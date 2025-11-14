@@ -54,4 +54,6 @@ footer{
     padding: 0;
     text-align: center;
     background-color: beige;
+     position: absolute;
+    bottom:0%;
 }
