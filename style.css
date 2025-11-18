@@ -70,3 +70,12 @@ footer{
     font-size: 15px;
     line-height: 1.5;
 }
+
+.imagem-circular {
+    widht: 200px;
+    height: 200px;
+}
+
+border-radius: 50%; {
+    
+}
